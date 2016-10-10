@@ -15,7 +15,7 @@ header {
 
 header h1 {
   font-size: 50px;
-  margin: 0px;
+  margin: 0;
 }
 
 header section.home-about {
@@ -127,8 +127,8 @@ section.blog-intro {
 }
 
 .alpha {
-  margin-left: 0px;
-  padding-left: 0px;
+  margin-left: 0;
+  padding-left: 0;
 }
 
 .left {
@@ -225,5 +225,5 @@ section.blog-intro {
     font-size: 60px;
     line-height: 0.5;
     margin-left: -6px;
-    letter-spacing: 0px;
+    letter-spacing: 0;
 }
