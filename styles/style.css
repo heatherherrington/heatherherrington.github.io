@@ -134,7 +134,7 @@ article.about-me p {
   margin-bottom: 20px;
 }
 
-.blog-headline a {
+.blog-headline a, .portfolio-headline a {
   text-decoration: none;
 }
 
